@@ -6,12 +6,12 @@ published: true
 
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am working on the DeMi CubeSat and the WFIRST CGI. 
 
-My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF") in astronomy at Boston University work focused on integrating,  relaunching, and understanding the <a title="PICTURE-B" href="http://www.uml.edu/Research/LoCSST/Research/Picture-B.aspx"> PICTURE-B</a> sounding rocket mission.
-Other projects I have contributed to include:
+My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF") in astronomy at Boston University focused on integrating,  relaunching, and understanding the <a title="PICTURE-B" href="http://www.uml.edu/Research/LoCSST/Research/Picture-B.aspx"> PICTURE-B</a> sounding rocket mission.
+Other projects I have contributed to:
 
 - testing the detectors for the <a href="http://people.bu.edu/danowski/IMAGER/">Interstellar Medium Absorption Gradient Experiment Rocket </a>(IMAGER), 
 - building the <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6352489">Dual-Wavelength Echidna Lidar </a>(DWEL),
-- and inferring the density about the terrestrial ionosphere using observations from the  <a href="https://raids.nrl.navy.mil/">RAIDS</a>
+- and inferring the density of the terrestrial ionosphere using observations from the  <a href="https://raids.nrl.navy.mil/">RAIDS</a>
 (the Remote Atmospheric and Ionospheric Detection System) extreme ultraviolet spectrograph on on the International Space Station.
 
 Before graduate school, I worked at <a href="http://www.ligo-wa.caltech.edu/">LIGO Hanford Observatory</a>.
@@ -33,7 +33,7 @@ You can find software I have developed on GitHub and publications listed on my G
 ---
 
 <center>
-<a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i>LinkedIn</a> | 
+<a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i> LinkedIn</a> | 
 <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> Twitter</a>
 </center>
 
