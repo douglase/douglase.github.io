@@ -3,7 +3,13 @@ layout: default
 published: true
 ---
 
-
+{% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github"></i> GitHub
+    </a>
+  </li>
+{% endif %}
 
 ### An astronomer specializing in building instruments with a particular focus on exoplanet imaging 
 
@@ -27,4 +33,3 @@ You can find publications listed on my <a href="http://scholar.google.com/citati
 Bibliographic Database</a>.
 
 ![S![]({{site.baseurl}}//i-hw9K42v-XL.jpg)]({{site.baseurl}}//i-hw9K42v-XL.jpg)
-
