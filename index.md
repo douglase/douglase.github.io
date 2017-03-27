@@ -27,9 +27,12 @@ Bibliographic Database</a>.
 
 <center> <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a> |
 <a href="http://scholar.google.com/citations?user=-{{ site.gscholar_username }}"><i class="fa fa-google"></i> Google Scholar</a> | <a href="http://scholar.google.com/citations?user=-{{ site.gscholar_username }}"><i class="fa fa-google"></i> Astrophysics Data System<>
+</center>
+
 
 ---
 
+<center>
 <a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i> LinkedIn</a> | 
 <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> Twitter</a>
 </center>
