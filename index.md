@@ -2,8 +2,6 @@
 layout: default
 published: true
 ---
-
-
 ### An astronomer specializing in building instruments with a particular focus on exoplanet imaging 
 
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am working on the DeMi CubeSat and the WFIRST CGI. 
