@@ -1,6 +1,6 @@
 # Site settings
 title: Ewan S. Douglas
-tag_text: Ewan S, Douglas
+tag_text: Ewan S. Douglas
 description: An astronomer specializing in building instruments with a particular focus on direct imaging of exoplanets - worlds around other stars
 url: "http://127.0.0.1:4000"
 baseurl: ""
