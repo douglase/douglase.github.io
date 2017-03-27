@@ -10,7 +10,7 @@ My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF")
 Other projects I have contributed to include the:
 
 - Testing the detectors for the <a href="http://people.bu.edu/danowski/IMAGER/">Interstellar Medium Absorption Gradient Experiment Rocket </a>(IMAGER), 
-- Building the <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6352489">Dual-Wavelength Echidna Lidar </a>(DWEL)-
+- Building the <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6352489">Dual-Wavelength Echidna Lidar </a>(DWEL),
 - and inferring the density about the terrestrial ionosphere using observations from the  <a href="https://raids.nrl.navy.mil/">RAIDS</a>
 (the Remote Atmospheric and Ionospheric Detection System) extreme ultraviolet spectrograph on on the International Space Station.
 
