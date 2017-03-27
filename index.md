@@ -40,4 +40,4 @@ Profiles:
 </center>
 
 
-![S![]({{site.baseurl}}//i-hw9K42v-XL.jpg)]({{site.baseurl}}//i-hw9K42v-XL.jpg)
+![S![]({{site.baseurl}}/images/i-hw9K42v-XL.jpg)]({{site.baseurl}}//i-hw9K42v-XL.jpg)
