@@ -27,19 +27,9 @@ Bibliographic Database</a>.
 
 [comment]: use font-awesome icons for social stuff:https://blog.r3bl.me/en/simple-social-media-links-jekyll/
 
-{% if site.github_username %}
-    <a href="https://github.com/{{ site.github_username }}">
-      <i class="fa fa-github"></i> GitHub
-    </a>
-{% endif %}
-{% if site.linkedin_username %}
-    <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-      <i class="fa fa-linkedin"></i> LinkedIn
-    </a>
-{% endif %}
-{% if site.twitter_username %}
-    <a href="https://twitter.com/{{ site.twitter_username }}">
-      <i class="fa fa-twitter"></i> Twitter
-    </a>
-{% endif %}
+
+<a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a>
+<a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i> LinkedIn</a>
+<a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> Twitter</a>
+
 ![S![]({{site.baseurl}}//i-hw9K42v-XL.jpg)]({{site.baseurl}}//i-hw9K42v-XL.jpg)
