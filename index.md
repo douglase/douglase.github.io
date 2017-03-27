@@ -16,9 +16,9 @@ Other projects I have contributed to include:
 
 Before graduate school, I worked at <a href="http://www.ligo-wa.caltech.edu/">LIGO Hanford Observatory</a>.
 
-Many summers, I have a blast teaching the talented students at <a href="http://www.astronomycamp.org">Astronomy Camp</a>
+Many summers, I have a blast teaching the talented students at <a href="http://www.astronomycamp.org">Astronomy Camp</a>.
 
-You can find software I have developed on github and publications listed on my Google Scholar Profile or the ADS:
+You can find software I have developed on GitHub and publications listed on my Google Scholar Profile or the ADS:
 
 [comment]: use font-awesome icons for social stuff:https://blog.r3bl.me/en/simple-social-media-links-jekyll/
 
