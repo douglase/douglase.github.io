@@ -32,6 +32,7 @@ Bibliographic Database</a>.
 
 <a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i> LinkedIn</a> | 
 <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> Twitter</a>
+</center>
+
 
 ![S![]({{site.baseurl}}//i-hw9K42v-XL.jpg)]({{site.baseurl}}//i-hw9K42v-XL.jpg)
-</center>
