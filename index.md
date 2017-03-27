@@ -2,67 +2,21 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## E. S. Douglas
 
-### Nice, clean, reading!
+### I am an astronomer specializing in instrumentation for exoplanet astronomy and space physics. 
+As a member of MIT [STAR Lab](http://starlab.mit.edu) I work with Prof. Kerri Cahoy of the Dept. of Aeronautics and Astronautics. 
 
-Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
+My graduate work focused on integrating,  relaunching, and understanding the <a title="PICTURE-B" href="http://www.uml.edu/Research/LoCSST/Research/Picture-B.aspx"> PICTURE-B</a> sounding rocket mission.
+Other projects I have contributed to include the <a href="http://people.bu.edu/danowski/IMAGER/">Interstellar Medium Absorption Gradient Experiment Rocket </a>(IMAGER), 
+the <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6352489">Dual-Wavelength Echidna Lidar </a>(DWEL), and inferring the density about the terrestrial ionosphere using <a href="https://raids.nrl.navy.mil/">RAIDS</a>
+(the Remote Atmospheric and Ionospheric Detection System) on the International Space Station.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Before Boston University, I worked at <a href="http://www.ligo-wa.caltech.edu/">LIGO Hanford Observatory</a>.
 
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Many summers, I have a blast teaching the talented students at <a href="http://www.astronomycamp.org">Astronomy Camp</a>
 
-### With footnotes too!
-
-Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### Add social sharing buttons
-
-Simply add the following line anywhere in your markdown:
-
-<pre><code>{% raw  %}
-{% include sharing.html %}
-{% endraw %}
-</code></pre>
-
-and get a nice responsive sharing ribbon.
-
-{% include sharing.html %}
-
-Add this at the bottom, or the top, or between every other paragraph if you're desprate for social validation.
-
-Just remember to customize the buttons to fit your url in the `_includes/sharing.html` file. These buttons are made available and customizable by the good folks at kni-labs. See the documentation at [https://github.com/kni-labs/rrssb](https://github.com/kni-labs/rrssb) for more information.
-
-### Font awesome is also included
-
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i> Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io) is indeed awesome. But wait, you don't need this sweetness and you don't want that little bit of load time from the font awesome css? No problem, just disable it in the `config.yml` file, and it won't be loaded.
-
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-check-square"></i>you can make lists...</li>
-  <li><i class="fa-li fa fa-check-square-o"></i>with cool icons like this,</li>
-  <li><i class="fa-li fa fa-spinner fa-spin"></i>even ones that move!</li>
-</ul>
-
-If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
-
-<i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
-
-### Add images to make your point
-
-Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
-
-<img src="images/hello.svg" alt="sample image">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
-
-<hr>
-
-##### Footnotes:
-
-[^1]: This is a footnote. Click to return.
-
-[^2]: Here is another.
+Some of the code I have written for both the lab and data analysis is available on <a href="https://github.com/douglase">github.com/douglase</a>.
+You can find publications listed on my <a href="http://scholar.google.com/citations?user=-mwPSu8AAAAJ">Google Scholar Profile</a>, or the 
+<a title="SAO/NASA Astrophysics Data System (ADS)" href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&amp;db_key=PRE&amp;qform=AST&amp;arxiv_sel=astro-ph&amp;arxiv_sel=cond-mat&amp;arxiv_sel=cs&amp;arxiv_sel=gr-qc&amp;arxiv_sel=hep-ex&amp;arxiv_sel=hep-lat&amp;arxiv_sel=hep-ph&amp;arxiv_sel=hep-th&amp;arxiv_sel=math&amp;arxiv_sel=math-ph&amp;arxiv_sel=nlin&amp;arxiv_sel=nucl-ex&amp;arxiv_sel=nucl-th&amp;arxiv_sel=physics&amp;arxiv_sel=quant-ph&amp;arxiv_sel=q-bio&amp;sim_query=YES&amp;ned_query=YES&amp;adsobj_query=YES&amp;aut_logic=OR&amp;obj_logic=OR&amp;author=douglas%2C+Ewan+S%0D%0Adouglas%2C+E+S%0D%0ADouglas%2C+E&amp;object=&amp;start_mon=1&amp;start_year=2008&amp;end_mon=&amp;end_year=&amp;ttl_logic=OR&amp;title=&amp;txt_logic=OR&amp;text=&amp;nr_to_return=200&amp;start_nr=1&amp;jou_pick=ALL&amp;ref_stems=&amp;data_and=ALL&amp;group_and=ALL&amp;start_entry_day=&amp;start_entry_mon=&amp;start_entry_year=&amp;end_entry_day=&amp;end_entry_mon=&amp;end_entry_year=&amp;min_score=&amp;sort=SCORE&amp;data_type=SHORT&amp;aut_syn=YES&amp;ttl_syn=YES&amp;txt_syn=YES&amp;aut_wt=1.0&amp;obj_wt=1.0&amp;ttl_wt=0.3&amp;txt_wt=3.0&amp;aut_wgt=YES&amp;obj_wgt=YES&amp;ttl_wgt=YES&amp;txt_wgt=YES&amp;ttl_sco=YES&amp;txt_sco=YES&amp;version=1">ADS</a> 
+Bibliographic Database.
