@@ -18,7 +18,7 @@ Before Boston University, I worked at <a href="http://www.ligo-wa.caltech.edu/">
 
 Many summers, I have a blast teaching the talented students at <a href="http://www.astronomycamp.org">Astronomy Camp</a>
 
-You can find publications listed on my <a href="http://scholar.google.com/citations?user=-mwPSu8AAAAJ">Google Scholar Profile</a>, or the ADS:
+You can find software I have developed on github and publications listed on my Google Scholar Profile or the ADS:
 
 [comment]: use font-awesome icons for social stuff:https://blog.r3bl.me/en/simple-social-media-links-jekyll/
 
