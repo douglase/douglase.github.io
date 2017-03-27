@@ -26,6 +26,7 @@ You can find publications listed on my <a href="http://scholar.google.com/citati
 Bibliographic Database</a>.
 
 [comment]: use font-awesome icons for social stuff:https://blog.r3bl.me/en/simple-social-media-links-jekyll/
+
 {% if site.github_username %}
     <a href="https://github.com/{{ site.github_username }}">
       <i class="fa fa-github"></i> GitHub
