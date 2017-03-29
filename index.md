@@ -27,7 +27,7 @@ Before graduate school, I worked at <a href="http://www.ligo-wa.caltech.edu/">LI
 
 Many summers, I have a blast teaching the talented students at <a href="http://www.astronomycamp.org">Astronomy Camp</a>.
 
-I am committed to enabling access to research tools through using open source programming languages and contributing to open source scientific libraries. Please find examples such as the POPPY PSF library on my GitHub profile. My scientific publications are listed on my Google Scholar Profile or the ADS:
+I am committed to enabling access to research tools through using open source programming languages and contributing to open source scientific libraries. Please find examples on my GitHub profile. My scientific publications are listed on my Google Scholar Profile or the ADS:
 
 [comment]: use font-awesome icons for social stuff:https://blog.r3bl.me/en/simple-social-media-links-jekyll/
 
