@@ -27,7 +27,7 @@ You can find software I have developed on GitHub and publications listed on my G
 <center> 
 <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a> |
 <a href="http://scholar.google.com/citations?user=-{{ site.gscholar_username }}"><i class="fa fa-google"></i> Google Scholar</a> | 
-<a href="{{ads_custom_search}}">Astrophysics Data System</a>
+<a href="{{site.ads_custom_search}}">Astrophysics Data System</a>
 </center>
 
 
