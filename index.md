@@ -6,12 +6,11 @@ published: true
 
 <center> 
 <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a> |
-<a href="http://scholar.google.com/citations?user=-{{ site.gscholar_username }}"><i class="fa fa-google"></i> Google Scholar</a> | 
+<a href="http://scholar.google.com/citations?user=-{{ site.gscholar_username }}&view_op=list_works&sortby=pubdate"><i class="fa fa-google"></i> Google Scholar</a> | 
 <a href="{{site.ads_custom_search}}">Astrophysics Data System</a>
 </center>
 
 ---
-
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am working on the DeMi CubeSat and the WFIRST CGI. 
 
 My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF") in astronomy at Boston University focused on integrating,  relaunching, and understanding the <a title="PICTURE-B" href="https://www.nasa.gov/feature/picture-b-seeing-through-the-glare"> PICTURE-B sounding rocket</a>  mission which [demonstrated active wavefront sensing in space](https://arxiv.org/abs/1607.00277) - an essential technology for stabilizing space telescope optics enough to sense reflected light from exoplanets against the billion times brighter signal from their host stars.
