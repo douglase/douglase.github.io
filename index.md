@@ -7,10 +7,8 @@ published: true
 <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a> |
 <a href="http://scholar.google.com/citations?user=-{{ site.gscholar_username }}&view_op=list_works&sortby=pubdate"><i class="fa fa-google"></i> Google Scholar</a> | 
 <a href="{{site.ads_custom_search}}">Astrophysics Data System</a>
-  
-![S![]({{site.baseurl}}s/i-hw9K42v-XL.jpg)]({{site.baseurl}}/images/i-hw9K42v-XL.jpg)
-
 </center>
+![S![]({{site.baseurl}}s/i-hw9K42v-XL.jpg)]({{site.baseurl}}/images/i-hw9K42v-XL.jpg)
 
 ### An astronomer specializing in building instruments with a particular focus on direct imaging of exoplanets - worlds around other stars
 ---
