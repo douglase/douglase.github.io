@@ -2,7 +2,6 @@
 layout: default
 published: true
 ---
-### An astronomer specializing in building instruments with a particular focus on direct imaging of exoplanets - worlds around other stars
 
 <center> 
 <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a> |
@@ -13,6 +12,7 @@ published: true
 
 </center>
 
+### An astronomer specializing in building instruments with a particular focus on direct imaging of exoplanets - worlds around other stars
 ---
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am working on the DeMi CubeSat and the WFIRST CGI. 
 
