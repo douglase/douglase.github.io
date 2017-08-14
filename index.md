@@ -12,7 +12,7 @@ published: true
 
 ### An astronomer specializing in building instruments with a particular focus on direct imaging of exoplanets - worlds around other stars
 ---
-As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am working on the DeMi CubeSat and the WFIRST CGI. 
+As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am primarily working on the design of the DeMi CubeSat to test MEMS deformable mirrors in space, and the science requirements for the NASA WFIRST exoplanet imaging coronagraph. 
 
 My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF") in astronomy at Boston University focused on integrating,  relaunching, and understanding the <a title="PICTURE-B" href="https://www.nasa.gov/feature/picture-b-seeing-through-the-glare"> PICTURE-B sounding rocket</a>  mission which [demonstrated active wavefront sensing in space](https://arxiv.org/abs/1607.00277) - an essential technology for stabilizing space telescope optics enough to sense reflected light from exoplanets against the billion times brighter signal from their host stars.
 
