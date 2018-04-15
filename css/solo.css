@@ -5,7 +5,7 @@ html {
 }
 
 
-@media (max-width: 625px) {
+@media (max-width: 1200px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
 }
 
