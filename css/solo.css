@@ -188,7 +188,7 @@ pre > code {
 }
 
 .container {
-  max-width: 625px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 0.75rem;
 }
@@ -203,7 +203,7 @@ pre > code {
   font-style: italic;
 }
 
-@media (max-width: 635px) {
+@media (max-width: 1200px) {
 .sharing {
  font-size: 85%;
  }
