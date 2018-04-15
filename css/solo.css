@@ -171,7 +171,7 @@ table {
 
 td, th {
   padding: .25rem .5rem;
-  border: 1px solid #ccc;
+  border: 0px solid #ccc;
 }
 
 pre, code {
