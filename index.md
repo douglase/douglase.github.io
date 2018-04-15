@@ -18,7 +18,7 @@ My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF")
 
 PICTURE-B Payload         |  PICTURE-B Integration at WSMR (Courtesy NASA)
 :-------------------------:|:-------------------------:
-![CAD Rendering of PICTURE payload](images/experiment_payload_asmSLDASM.png) |  ![PICTURE-B at WSMR, via https://www.nasa.gov/feature/picture-b-seeing-through-the-glare](picture_b_at_ws.jpg)
+![CAD Rendering of PICTURE payload](images/experiment_payload_asmSLDASM.png) |  ![PICTURE-B at WSMR, Courtesy NASA](picture_b_at_ws.jpg)
 (Read more in my dissertation, [Douglas 2016](https://open.bu.edu/handle/2144/19717)).
 
 Other projects I have contributed to:
