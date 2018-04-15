@@ -10,7 +10,7 @@ published: true
 </center>
 ![S![]({{site.baseurl}}s/i-hw9K42v-XL.jpg)]({{site.baseurl}}/images/i-hw9K42v-XL.jpg)
 
-### An astronomer building space telescopes large and small -- with a particular focus on directly imaging  exoplanets: worlds around other stars
+### An astronomer building space telescopes large and small -- with a focus on directly imaging  exoplanets: worlds around other stars
 ---
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am primarily working on the design of the DeMi CubeSat to test MEMS deformable mirrors in space, and the science requirements for the NASA WFIRST exoplanet imaging coronagraph. 
 
