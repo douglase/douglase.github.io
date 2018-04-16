@@ -5,7 +5,7 @@ html {
 }
 
 
-@media (max-width: 1200px) {
+@media (max-width: 1024px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1024px) {
 h1, h2, h3, h4, h5, h6 {
   margin-left: 0 !important;
   margin-right: 0 !important;
@@ -188,7 +188,7 @@ pre > code {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1024px;
   margin: 0 auto;
   padding: 0 0.75rem;
 }
@@ -203,7 +203,7 @@ pre > code {
   font-style: italic;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1024px) {
 .sharing {
  font-size: 85%;
  }
