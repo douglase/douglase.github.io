@@ -11,7 +11,7 @@ published: true
 ---
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am the payload engineer for the [DeMi CubeSat](https://dspace.mit.edu/handle/1721.1/114748) to test deformable mirrors in space and enable the next generation of exoplanet imaging space telescopes.
 
-![DeMi CubeSat rendering, courtesy Blue Canyon Technologies](images/demi_bct.png) |  ![Hubble Space Telescope, courtesy STScI](stsci_spacecraft_28_lg_web.jpg)
+![DeMi CubeSat rendering, courtesy Blue Canyon Technologies](images/demi_bct.png) |  ![Hubble Space Telescope, courtesy STScI](images/stsci_spacecraft_28_lg_web.jpg)
   -------------  | -------------
 **PICTURE-B Payload CAD**        | **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
 
