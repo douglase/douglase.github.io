@@ -50,12 +50,14 @@ My scientific publications are listed on my Google Scholar Profile or the ADS:
 
 ---
 
+![Stars and clouds over the Magellan Telescopes, Las Campanas Observatory. Photo by Ewan Douglas, Aug 2017.]({{site.baseurl}}/images/P8301883.JPG)
+---
+
 <center>
 <a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i> LinkedIn</a> | 
 <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> Twitter</a>
 </center>
 
-![Stars and clouds over the Magellan Telescopes, Las Campanas Observatory. Photo by Ewan Douglas, Aug 2017.]({{site.baseurl}}/images/P8301883.JPG)
 
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1087214-5"></script>
