@@ -10,9 +10,9 @@ published: true
 ---
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am the payload engineer for the [DeMi CubeSat](https://dspace.mit.edu/handle/1721.1/114748) to test deformable mirrors in space and enable the next generation of exoplanet imaging space telescopes.
 
-![DeMi CubeSat rendering, courtesy Blue Canyon Technologies](images/demi_bct.png) |  ![Hubble Space Telescope, courtesy STScI](images/stsci_spacecraft_28_lg_web.jpg)
+![DeMi CubeSat rendering, courtesy Blue Canyon Technologies](images/demi_bct.png)  |  ![Hubble Space Telescope, courtesy STScI](images/stsci_spacecraft_28_lg_web.jpg)
   -------------  | -------------
-**PICTURE-B Payload CAD**        | **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
+**DeMi CubeSat rendering**, courtesy Blue Canyon Technologies    |   **Hubble Space Telescope**, courtesy STScI
 
 My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF") in astronomy at Boston University focused on integrating,  relaunching, and understanding the <a title="PICTURE-B" href="https://www.nasa.gov/feature/picture-b-seeing-through-the-glare"> PICTURE-B sounding rocket</a>  mission which [demonstrated active wavefront sensing in space](https://arxiv.org/abs/1607.00277) - an essential technology for stabilizing space telescope optics enough to sense reflected light from exoplanets against the billion times brighter signal from their host stars.
 
