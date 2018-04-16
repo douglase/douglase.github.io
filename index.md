@@ -6,9 +6,7 @@ published: true
 <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a> |
 <a href="http://scholar.google.com/citations?user=-{{ site.gscholar_username }}&view_op=list_works&sortby=pubdate"><i class="fa fa-google"></i> Google Scholar</a> | 
 <a href="{{site.ads_custom_search}}">Astrophysics Data System</a>
-
 ![Stars and clouds over the Magellan Telescopes, Las Campanas Observatory. Photo by Ewan Douglas, Aug 2017.]({{site.baseurl}}/images/P8301883.JPG)
-
 ### An astronomer building space telescopes large and small -- with a focus on directly imaging  exoplanets: worlds around other stars
 ---
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am primarily working on the design of the DeMi CubeSat to test MEMS deformable mirrors in space, and the science requirements for the NASA WFIRST exoplanet imaging coronagraph. 
