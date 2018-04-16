@@ -10,13 +10,13 @@ html {
 }
 
 body {
-  margin: 2rem 0 5rem;
+  margin: 2rem 0 2rem;
   color: #222;
 }
 
 @media (min-width: 30rem) {
   body {
-    margin-top: 5rem;
+    margin-top: 2rem;
   }
 }
 
@@ -55,7 +55,7 @@ h1 {
 @media (min-width: 30rem) {
   h1 {
     font-size: 4rem;
-    margin-bottom: 2rem;
+    margin-bottom: 0rem;
   }
 }
 
@@ -152,7 +152,7 @@ word-wrap: break-word;
 }
 
 .container img {
-  margin: 1em auto 1em auto;
+  margin: 0em auto 0em auto;
   display: block;
   max-width: 90%;
 }
