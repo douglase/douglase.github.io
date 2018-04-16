@@ -154,7 +154,7 @@ word-wrap: break-word;
 .container img {
   margin: 0em auto 0em auto;
   display: block;
-  max-width: 90%;
+  max-width: 50%;
 }
 
 
