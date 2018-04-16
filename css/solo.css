@@ -10,13 +10,13 @@ html {
 }
 
 body {
-  margin: 2rem 0 2rem;
+  margin: 0.5rem 0 0.5rem;
   color: #222;
 }
 
 @media (min-width: 30rem) {
   body {
-    margin-top: 2rem;
+    margin-top: .5rem;
   }
 }
 
@@ -103,7 +103,7 @@ h4, h5, h6 {
 
 p, ul, ol, dl, table, pre, blockquote {
   margin-top: 0;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
 ul, ol {
