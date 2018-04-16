@@ -7,11 +7,16 @@ published: true
 <a href="http://scholar.google.com/citations?user=-{{ site.gscholar_username }}&view_op=list_works&sortby=pubdate"><i class="fa fa-google"></i> Google Scholar</a> | 
 <a href="{{site.ads_custom_search}}">Astrophysics Data System</a>
 
-![S![]({{site.baseurl}}s/i-hw9K42v-XL.jpg)]({{site.baseurl}}/images/i-hw9K42v-XL.jpg)
+![Stars and clouds over the Magellan Telescopes, Las Campanas Observatory. Photo by Ewan Douglas, Aug 2017.]({{site.baseurl}}/images/P8301883.JPG)
 
 ### An astronomer building space telescopes large and small -- with a focus on directly imaging  exoplanets: worlds around other stars
 ---
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am primarily working on the design of the DeMi CubeSat to test MEMS deformable mirrors in space, and the science requirements for the NASA WFIRST exoplanet imaging coronagraph. 
+
+
+![CAD Rendering of PICTURE payload](images/experiment_payload_asmSLDASM.png) |  ![PICTURE-B at WSMR, Courtesy NASA](picture_b_at_ws.jpg)
+  -------------  | -------------
+**PICTURE-B Payload CAD**        | **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
 
 My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF") in astronomy at Boston University focused on integrating,  relaunching, and understanding the <a title="PICTURE-B" href="https://www.nasa.gov/feature/picture-b-seeing-through-the-glare"> PICTURE-B sounding rocket</a>  mission which [demonstrated active wavefront sensing in space](https://arxiv.org/abs/1607.00277) - an essential technology for stabilizing space telescope optics enough to sense reflected light from exoplanets against the billion times brighter signal from their host stars.
 
