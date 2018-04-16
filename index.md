@@ -9,10 +9,9 @@ published: true
 ![Stars and clouds over the Magellan Telescopes, Las Campanas Observatory. Photo by Ewan Douglas, Aug 2017.]({{site.baseurl}}/images/P8301883.JPG)
 ### An astronomer building space telescopes large and small -- with a focus on directly imaging  exoplanets: worlds around other stars
 ---
-As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am primarily working on the design of the DeMi CubeSat to test MEMS deformable mirrors in space, and the science requirements for the NASA WFIRST exoplanet imaging coronagraph. 
+As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am the payload engineer for the DeMi CubeSat to test deformable mirrors in space to enable the next generation of exoplanet imaging space telescopes.
 
-
-![CAD Rendering of PICTURE payload](images/experiment_payload_asmSLDASM.png) |  ![PICTURE-B at WSMR, Courtesy NASA](picture_b_at_ws.jpg)
+![DeMi CubeSat rendering, courtesy Blue Canyon Technologies](images/demi_bct.png) |  ![Hubble Space Telescope, courtesy STScI](stsci_spacecraft_28_lg_web.jpg)
   -------------  | -------------
 **PICTURE-B Payload CAD**        | **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
 
