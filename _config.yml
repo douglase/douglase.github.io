@@ -1,7 +1,7 @@
 # Site settings
 title: Ewan Douglas
 tag_text: Ewan Douglas
-description: astronomer building space telescopes large and small, with a focus on directly imaging  exoplanets: worlds around other stars
+description: "astronomer building space telescopes large and small, with a focus on directly imaging  exoplanets -- worlds around other stars"
 url: "http://127.0.0.1:4000"
 baseurl: ""
 twitter_username:     e_douglas
