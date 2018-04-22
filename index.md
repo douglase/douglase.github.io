@@ -19,7 +19,7 @@ My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF")
 
 ![CAD Rendering of PICTURE payload](images/experiment_payload_asmSLDASM.png) |  ![PICTURE-B at WSMR, Courtesy NASA](picture_b_at_ws.jpg)
   -------------  | -------------
-**PICTURE-B Payload CAD**        | **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
+**PICTURE-B Payload **        | **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
 
 (Read more in my dissertation, [Douglas 2016](https://open.bu.edu/handle/2144/19717)).
 
@@ -30,7 +30,7 @@ Other projects I have contributed to:
 - and inferring the density of the terrestrial ionosphere using observations from the  <a href="https://raids.nrl.navy.mil/">RAIDS</a>
 (the Remote Atmospheric and Ionospheric Detection System) extreme ultraviolet spectrograph from the International Space Station.
 
-![RAIDS instrumented mounted on the ISS, Courtesy NASA](images/iss020e041981.jpg) |  ![DWEL](images/DWEL_deployed.png)![DWEL separating leafs from trunks, Douglas et al 2015](images/DWEL_trees_douglasetal2015.jpg)
+![RAIDS instrumented mounted on the ISS, Courtesy NASA](images/iss020e041981.jpg)|![DWEL](images/DWEL_deployed.png)![DWEL separating leafs from trunks, Douglas et al 2015](images/DWEL_trees_douglasetal2015.jpg)
   -------------  | -------------
 **RAIDS instrument on the International Space Station**| **Dual-wavelength Echnida Lidar** distinguishes leaves from trunks to quantify forest carbon uptake
 
