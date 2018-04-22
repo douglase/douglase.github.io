@@ -30,9 +30,9 @@ Other projects I have contributed to:
 - and inferring the density of the terrestrial ionosphere using observations from the  <a href="https://raids.nrl.navy.mil/">RAIDS</a>
 (the Remote Atmospheric and Ionospheric Detection System) extreme ultraviolet spectrograph from the International Space Station.
 
-![RAIDS instrumented mounted on the ISS, Courtesy NASA](images/iss020e041981.jpg)|![DWEL separating leafs from trunks, Douglas et al 2015 and first deployment](images/DWEL_deployed_data.jpg)
+![DWEL separating leafs from trunks, Douglas et al 2015 and first deployment](images/DWEL_deployed_data.jpg)|![RAIDS instrumented mounted on the ISS, Courtesy NASA](images/iss020e041981.jpg)
   -------------  | -------------
-**RAIDS instrument on the International Space Station**| **Dual-wavelength Echnida Lidar** distinguishes leaves from trunks to quantify forest carbon uptake
+ **Dual-wavelength Echnida Lidar** distinguishes leaves from trunks to quantify forest carbon uptake | **RAIDS instrument on the International Space Station**
 
 
 Before graduate school, I worked at <a href="http://www.ligo-wa.caltech.edu/">LIGO Hanford Observatory</a>.
