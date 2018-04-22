@@ -166,6 +166,7 @@ table {
   width: 100%;
   border: 0px solid #ccc;
   border-collapse: collapse;
+	font-size:0.5rem;
 }
 
 td, th {
