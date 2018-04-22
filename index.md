@@ -30,6 +30,11 @@ Other projects I have contributed to:
 - and inferring the density of the terrestrial ionosphere using observations from the  <a href="https://raids.nrl.navy.mil/">RAIDS</a>
 (the Remote Atmospheric and Ionospheric Detection System) extreme ultraviolet spectrograph from the International Space Station.
 
+![RAIDS instrumented mounted on the ISS, Courtesy NASA](images/iss020e041981.jpg) |  ![DWEL](images/DWEL_deployed.png) ![DWEL separating leafs from trunks, Douglas et al 2015](images/DWEL_trees_douglasetal2015.jpg)
+  -------------  | -------------
+**RAIDS instrument on the International Space Station**| **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
+
+
 Before graduate school, I worked at <a href="http://www.ligo-wa.caltech.edu/">LIGO Hanford Observatory</a>.
 
 Many summers, I have a blast teaching the talented students at <a href="http://www.astronomycamp.org">Astronomy Camp</a>.
