@@ -19,7 +19,7 @@ My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF")
 
 ![CAD Rendering of PICTURE payload](images/experiment_payload_asmSLDASM.png) |  ![PICTURE-B at WSMR, Courtesy NASA](picture_b_at_ws.jpg)
   -------------  | -------------
-**PICTURE-B Payload **        | **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
+**PICTURE-B Payload**        | **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
 
 (Read more in my dissertation, [Douglas 2016](https://open.bu.edu/handle/2144/19717)).
 
