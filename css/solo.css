@@ -4,7 +4,6 @@ html {
   font: 18px/1.6 'Open Sans', sans-serif;
 }
 
-
 @media (max-width: 1024px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
 }
@@ -96,9 +95,14 @@ h3 {
   }
 }
 
-h4, h5, h6 {
+h4,{
   margin: 1.5rem -1rem 1.5rem -1rem;
   font-size: 1.5rem;
+}
+
+h5, h6 {
+  margin: 1.5rem -1rem 1.5rem -1rem;
+  font-size: 0.5rem;
 }
 
 p, ul, ol, dl, table, pre, blockquote {
@@ -181,6 +185,10 @@ pre {
 
 code {
   padding: .1rem .25rem;
+}
+
+caption {
+    font-size: .5rem;
 }
 
 pre > code {
