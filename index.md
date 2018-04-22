@@ -32,7 +32,7 @@ Other projects I have contributed to:
 
 ![RAIDS instrumented mounted on the ISS, Courtesy NASA](images/iss020e041981.jpg) |  ![DWEL](images/DWEL_deployed.png)![DWEL separating leafs from trunks, Douglas et al 2015](images/DWEL_trees_douglasetal2015.jpg)
   -------------  | -------------
-**RAIDS instrument on the International Space Station**| **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
+**RAIDS instrument on the International Space Station**| **Dual-wavelength Echnida Lidar** distinguishes leaves from trunks to quantify forest carbon uptake
 
 
 Before graduate school, I worked at <a href="http://www.ligo-wa.caltech.edu/">LIGO Hanford Observatory</a>.
