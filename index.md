@@ -17,7 +17,7 @@ As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit
 My [graduate work](https://open.bu.edu/handle/2144/19717 "PhD Dissertation PDF") in astronomy at Boston University focused on integrating,  relaunching, and understanding the <a title="PICTURE-B" href="https://www.nasa.gov/feature/picture-b-seeing-through-the-glare"> PICTURE-B sounding rocket</a>  mission which [demonstrated active wavefront sensing in space](https://arxiv.org/abs/1607.00277) - an essential technology for stabilizing space telescope optics enough to sense reflected light from exoplanets against the billion times brighter signal from their host stars.
 
 
-![CAD Rendering of PICTURE payload](images/experiment_payload_asmSLDASM.png) |  ![PICTURE-B at WSMR, Courtesy NASA](picture_b_at_ws.jpg)
+![CAD Rendering of PICTURE payload](images/experiment_payload_asmSLDASM.png) |  ![PICTURE-B at WSMR, Courtesy NASA](images/picture_b_at_ws.jpg)
   -------------  | -------------
 **PICTURE-B Payload**        | **PICTURE-B Integration at White Sands Missile Range** (Courtesy NASA)
 
