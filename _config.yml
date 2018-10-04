@@ -9,6 +9,7 @@ github_username:      douglase
 linkedin_username:    Ewan-s-douglas-31317034
 gscholar_username: 	mwPSu8AAAAJ
 ads_custom_search:  "https://ui.adsabs.harvard.edu/#search/q=orcid%3A0000-0002-0813-4308&sort=date%20desc%2C%20bibcode%20desc"
+contact_page: "http://web.mit.edu/bin/cgicso?options=general&query=edouglas"
 font-awesome-include: true # make this false if you don't need font-awesome
 
 # Build settings
