@@ -60,6 +60,7 @@ My scientific publications are listed on my Google Scholar Profile or the ADS:
 <center>
 <a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i> LinkedIn</a> | 
 <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> Twitter</a>
+   <a href="{{site.contact_page}}">Email</a>
 </center>
 
 
