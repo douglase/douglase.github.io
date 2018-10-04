@@ -5,7 +5,7 @@ published: true
 
 <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> GitHub</a> |
 <a href="http://scholar.google.com/citations?user=-{{ site.gscholar_username }}&view_op=list_works&sortby=pubdate"><i class="fa fa-google"></i> Google Scholar</a> | 
-<a href="{{site.ads_custom_search}}">Astrophysics Data System</a>
+<a href="{{site.ads_custom_search}}">Astrophysics Data System</a> | <a href="{{site.contact_page}}">Contact</a>
 ### An astronomer building space telescopes large and small -- with a focus on directly imaging  exoplanets: worlds around other stars
 ---
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am the payload engineer for the [DeMi CubeSat](https://dspace.mit.edu/handle/1721.1/114748) to test deformable mirrors in space and enable the next generation of exoplanet imaging space telescopes.
