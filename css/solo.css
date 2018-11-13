@@ -148,7 +148,7 @@ hr {
 }
 
 .img, .container iframe {
-  max-width: 65%;
+  max-width: 85%;
 }
 
 a {
@@ -158,7 +158,7 @@ word-wrap: break-word;
 .container img {
   margin: 0em auto 0em auto;
   display: block;
-  max-width: 65%;
+  max-width: 85%;
 }
 
 
