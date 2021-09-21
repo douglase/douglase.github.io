@@ -8,7 +8,9 @@ published: true
 <a href="{{site.ads_custom_search}}">Astrophysics Data System</a> | <a href="{{site.contact_page}}">Contact</a>
 ### An astronomer building space telescopes large and small -- with a focus on directly imaging  exoplanets: worlds around other stars
 ---
-I recently joined the faculty of [UArizona's Steward Observatory in Spring 2019](https://www.as.arizona.edu/people/faculty/ewan-douglas).  As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I am the payload engineer for the [DeMi CubeSat](https://dspace.mit.edu/handle/1721.1/114748) to test deformable mirrors in space and enable the next generation of exoplanet imaging space telescopes.
+I joined the faculty of [UArizona's Steward Observatory in Spring 2019](https://www.as.arizona.edu/people/faculty/ewan-douglas) and lead the [UArizona Space Astrophysics Lab](https://uasal.github.io). 
+
+As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I was the payload engineer for the [DeMi CubeSat](https://dspace.mit.edu/handle/1721.1/114748) to test deformable mirrors in space and enable the next generation of exoplanet imaging space telescopes.
 
 ![DeMi CubeSat rendering, courtesy Blue Canyon Technologies](images/demi_bct.png)  |  ![Hubble Space Telescope, courtesy STScI](images/stsci_spacecraft_28_lg_web.jpg)
   -------------  | -------------
