@@ -12,7 +12,7 @@ I joined the faculty of [UArizona's Steward Observatory in Spring 2019](https://
 
 As a postdoctoral associate in Prof. Kerri Cahoy's [STAR Lab](http://starlab.mit.edu), part of  MIT's Dept. of Aeronautics and Astronautics, I was the payload engineer for the [DeMi CubeSat](https://dspace.mit.edu/handle/1721.1/114748) to test deformable mirrors in space and enable the next generation of exoplanet imaging space telescopes.
 
-![DeMi CubeSat rendering, courtesy Blue Canyon Technologies](images/demi_bct.png)  |  ![Hubble Space Telescope, courtesy STScI](images/stsci_spacecraft_28_lg_web.jpg)
+![DeMi CubeSat deploying from the International Space Station, Courtesy NASA and NanoRacks.](images/fspas-08-676281-g005.jpg)  |  ![Hubble Space Telescope, courtesy STScI](images/stsci_spacecraft_28_lg_web.jpg)
   -------------  | -------------
 **DeMi CubeSat rendering**, courtesy Blue Canyon Technologies    |   **Hubble Space Telescope**, courtesy STScI
 
